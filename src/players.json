@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Lionel Messi",
+        "team": "FC Barcelona",
+        "nationality": "Argentine",
+        "jerseyNumber": 10,
+        "age": 36,
+        "imageURL": "https://i.pinimg.com/236x/b6/9e/a9/b69ea936e655a81e2982a0e040da3d54.jpg"
+    },
+
+    {
+        "name": "Cristiano Ronaldo",
+        "team": "Real MAdrid",
+        "nationality": "Portuguese",
+        "jerseyNumber": 7,
+        "age": 38,
+        "imageURL": "https://i.pinimg.com/236x/8d/2b/72/8d2b722178062378b82e5258c33e74f2.jpg"
+    },
+
+    {
+        "name": "Neymar Jr",
+        "team": "FC Barcelona",
+        "nationality": "Brazilian",
+        "jerseyNumber": 11,
+        "age": 31,
+        "imageURL": "https://i.pinimg.com/564x/97/75/a5/9775a5afcb3d468bab8b23660a48658a.jpg"
+    },
+
+    {
+        "name": "Paulo Dybala",
+        "team": "Juventus",
+        "nationality": "Argentine",
+        "jerseyNumber": 21,
+        "age": 30,
+        "imageURL": "https://i.pinimg.com/236x/c6/2c/be/c62cbebb0f13f35aa26984626e410f87.jpg"
+    }
+]
